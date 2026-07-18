@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="profile-title profile-description">
+  <title id="profile-title">Joshua Jenks: support, operations, tooling, and learning</title>
+  <desc id="profile-description">A restrained technical diagram connecting four focus areas around practical systems: support, operations, tooling, and learning.</desc>
+
+  <rect width="960" height="260" rx="20" fill="#18211F"/>
+  <path d="M48 220H912" stroke="#31403C" stroke-width="1"/>
+  <path d="M48 38H912" stroke="#31403C" stroke-width="1"/>
+
+  <text x="56" y="78" fill="#F6F0E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="27" font-weight="700" letter-spacing="2">JOSHUA JENKS</text>
+  <text x="56" y="112" fill="#B7C8B0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5">TECHNICAL PROJECT MANAGER</text>
+  <text x="56" y="134" fill="#B7C8B0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5">PRODUCTION SUPPORT / DEVELOPER TOOLING</text>
+  <text x="56" y="184" fill="#B1BEB5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1">MAKE COMPLEX SYSTEMS EASIER</text>
+  <text x="56" y="202" fill="#B1BEB5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1">TO UNDERSTAND, TROUBLESHOOT, AND OPERATE.</text>
+
+  <path d="M596 130H652M748 130H804M700 80V108M700 152V180" stroke="#687A70" stroke-width="1.5"/>
+  <circle cx="700" cy="130" r="29" fill="#E3A08F"/>
+  <circle cx="700" cy="130" r="5" fill="#18211F"/>
+
+  <rect x="508" y="52" width="130" height="36" rx="7" fill="#202F2A" stroke="#506158"/>
+  <rect x="762" y="52" width="130" height="36" rx="7" fill="#202F2A" stroke="#506158"/>
+  <rect x="508" y="180" width="130" height="36" rx="7" fill="#202F2A" stroke="#506158"/>
+  <rect x="762" y="180" width="130" height="36" rx="7" fill="#202F2A" stroke="#506158"/>
+
+  <text x="573" y="75" text-anchor="middle" fill="#F6F0E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">SUPPORT</text>
+  <text x="827" y="75" text-anchor="middle" fill="#F6F0E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">OPERATIONS</text>
+  <text x="573" y="203" text-anchor="middle" fill="#F6F0E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">TOOLING</text>
+  <text x="827" y="203" text-anchor="middle" fill="#F6F0E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">LEARNING</text>
+
+  <text x="700" y="248" text-anchor="middle" fill="#B1BEB5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.6">PRACTICAL SYSTEMS</text>
+</svg>
