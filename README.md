@@ -99,5 +99,4 @@ I’m pursuing opportunities such as:
 
 - [GitHub](https://github.com/jenksed)
 - [LinkedIn](https://www.linkedin.com/in/joshuadavidjenks/)
-- Portfolio: **[Confirm public portfolio URL before publishing]**
 - Contact: The best way to reach me is through LinkedIn or GitHub.
