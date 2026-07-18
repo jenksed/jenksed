@@ -47,5 +47,4 @@ Technical Support Engineer · Technical Product Support Engineer · Application 
 
 - [GitHub](https://github.com/jenksed)
 - [LinkedIn](https://www.linkedin.com/in/joshuadavidjenks/)
-- Portfolio: **[URL to be confirmed]**
-- The best way to reach me is through LinkedIn or GitHub.
+- Contact: The best way to reach me is through LinkedIn or GitHub.
