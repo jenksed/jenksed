@@ -1,50 +1,70 @@
 # Joshua Jenks
 
 <p align="center">
-  <img src="./assets/profile-focus.svg" alt="Support, operations, tooling, and learning connected around practical systems" width="880">
+  <img src="./assets/profile-focus.svg" alt="Joshua Jenks — technical support, support engineering, troubleshooting, ownership, and human judgment" width="880">
 </p>
 
-## Technical project manager · production support · developer tooling
+## Technical support · support engineering · developer tooling
 
-I’m a Michigan-based technical project manager and former web developer with a production-support background across managed WordPress, CMS delivery, web operations, troubleshooting, and client-facing technical coordination.
+**I troubleshoot the problems that make it past the obvious fixes.**
 
-I’m currently building practical tools and learning systems around Kubernetes, Elixir, developer tooling, and practical automation, with a focus on making complex systems easier to understand, troubleshoot, and operate.
+I’m a Michigan-based technical support and operations professional with a background in managed hosting, web and CMS platforms, production troubleshooting, client escalations, and cross-functional technical delivery.
 
-I use AI-assisted engineering as part of a deliberate workflow: define the problem, set boundaries, review architecture, validate behavior, and document what changes.
+My strongest work starts when the system is unfamiliar or the first answer did not solve the problem: understand what the person is actually trying to accomplish, establish what is true, separate symptoms from causes, communicate clearly, and own the next step through resolution.
 
-[LinkedIn](https://www.linkedin.com/in/joshuadavidjenks/) · [GitHub](https://github.com/jenksed) · [Detailed project notes](PROJECT_NOTES.md)
+Recent independent work has taken that same support mindset into AI-assisted engineering, developer tooling, model evaluation, local systems, automation, and verification. I’m interested in making powerful systems more useful without pretending they are automatically trustworthy.
 
-## Current focus
+[Candidate site](https://joshua-jenks.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/joshuadavidjenks/) · [GitHub](https://github.com/jenksed)
 
-- Production and product support
-- Platform operations, troubleshooting, and safe changes
-- Developer tooling and practical automation
-- Kubernetes, Elixir/OTP, Go, and local-first systems
+## How I work
 
-## Selected work
+```text
+listen carefully
+      ↓
+establish reality
+      ↓
+isolate the cause
+      ↓
+make the smallest useful change
+      ↓
+verify the result
+      ↓
+close the loop
+```
 
-| Project | What it demonstrates | Status |
-| --- | --- | --- |
-| [Clusterwise](https://github.com/jenksed/clusterwise) | Kubernetes learning systems, operational reasoning, technical writing, and validation | Learning project |
-| [macadmin](https://github.com/jenksed/macadmin) | Support automation, shell tooling, testing, and operational safety | Public utility collection |
-| [oc-elixir-scout](https://github.com/jenksed/oc-elixir-scout) | Read-only developer tooling, Bash, Elixir/OTP learning, and safe-change thinking | Early tooling project |
-| [RoleForge](https://github.com/jenksed/roleforge) | SwiftUI, local-first application design, persistence, and QA planning | In progress |
-| [supportlab-relay](https://github.com/jenksed/supportlab-relay) | Go, WebSockets, PTY integration, and local system boundaries | Prototype |
+Support is still the foundation of how I think. The tools have gotten more sophisticated; that part has not changed.
 
-The project notes document the evidence, limitations, and maturity of each project.
+## Selected evidence
+
+| Work | What it shows |
+| --- | --- |
+| [Invariant engineering system](https://github.com/jenksed/engineering-system) | Systems thinking around AI-assisted work: reusable engineering methods, bounded authority, execution evidence, verification, and explicit human acceptance across Arsenal, Loadout, and Kiln. |
+| [macadmin](https://github.com/jenksed/macadmin) | Practical support automation with dry-run and protection gates, diagnostics, structured output, tests, and a bias toward safe operations. |
+| [cms-utils](https://github.com/jenksed/cms-utils) | Typed Python integration work, CMS inventory and migration planning, defensive HTTP, resumable checkpoints, deterministic artifacts, and 169 unit tests. |
+| [Clusterwise](https://github.com/jenksed/clusterwise) | Kubernetes learning built around observation, investigation, incident reasoning, communication, and evidence rather than memorizing commands. |
+
+The point of these projects is not that I know every tool they touch. They show how I approach unfamiliar systems: learn the boundaries, make assumptions explicit, build against feedback, and prove what changed.
 
 ## Production background
 
-My earlier work includes more than ten years around web production, support, client delivery, troubleshooting, and production operations. I’ve supported managed WordPress and CMS environments, PHP and MySQL applications, Linux-hosted systems, DNS and SSL/TLS, caching and performance, backups and recovery, APIs, migrations, releases, escalations, and technical documentation.
+My earlier work spans more than a decade around technical support, managed WordPress and CMS platforms, web operations, Linux-hosted systems, application troubleshooting, APIs and integrations, DNS and SSL/TLS, performance, backups and recovery, client escalations, vendor coordination, and technical documentation.
 
-At Liquid Web, Fusionary, Nolte, and Crown Bioscience, I worked with developers, vendors, clients, marketing, IT, and internal teams to diagnose problems, coordinate fixes, validate outcomes, and communicate technical impact clearly.
+At Liquid Web, Fusionary, Nolte, and Crown Bioscience, I worked across customers, developers, vendors, Marketing, IT, QA, and internal teams to diagnose problems, coordinate fixes, validate outcomes, and communicate technical impact clearly.
 
-## Roles I’m interested in
+## Human in the loop
 
-Technical Support Engineer · Technical Product Support Engineer · Application Support Engineer · Platform Support Engineer · Implementation Specialist or Engineer · Customer Success Engineer · Technical Account Manager · Developer Support or developer-tooling roles · adjacent junior-to-mid-level platform and operations roles
+I’m a dad of four, a lifelong builder, and still a support person at heart.
 
-## Links and contact
+The deeper I get into AI, the less interested I am in pretending the human disappears. Someone still has to decide what matters, recognize when an answer misses the point, know when to escalate, and take responsibility for what happens next.
 
-- [GitHub](https://github.com/jenksed)
-- [LinkedIn](https://www.linkedin.com/in/joshuadavidjenks/)
-- Contact: The best way to reach me is through LinkedIn or GitHub.
+> **Capability is not authority.**
+
+I like building systems around that boundary. I also like being the human inside it.
+
+## Where I’m useful
+
+Technical Support Engineer · Application Support Engineer · Product Support · Platform Support · Implementation · Customer Success Engineering · Technical Account Management · developer-support and adjacent technical operations roles
+
+Give me the product, the logs, the documentation, the strange edge case, or the customer problem nobody quite understands yet.
+
+I’ll start figuring it out.
